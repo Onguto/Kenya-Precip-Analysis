@@ -1,5 +1,5 @@
 # Kenya-Precip-Analysis
-#🌍 Kenya’s 2024 Floods: What the Data Reveals & Why It Matters
+🌍 Kenya’s 2024 Floods: What the Data Reveals & Why It Matters
 
 2024 has been a year of extreme weather for Kenya. Unprecedented rainfall led to devastating floods, displacing thousands, disrupting infrastructure, and posing serious public health risks. As climate variability intensifies, data-driven insights are crucial for preparedness and response.
 
