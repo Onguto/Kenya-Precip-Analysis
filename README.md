@@ -1,5 +1,6 @@
 # Kenya-Precip-Analysis
 #🌍 Kenya’s 2024 Floods: What the Data Reveals & Why It Matters
+
 2024 has been a year of extreme weather for Kenya. Unprecedented rainfall led to devastating floods, displacing thousands, disrupting infrastructure, and posing serious public health risks. As climate variability intensifies, data-driven insights are crucial for preparedness and response.
 
 Using CHIRPS daily precipitation data in Google Earth Engine (GEE), I analyzed Kenya’s rainfall patterns for 2024 to uncover key trends and their implications for climate resilience and public health.
